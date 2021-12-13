@@ -220,7 +220,7 @@ header .btn {
   animation-duration: 5s;
 }
 #mongodb.is-visible {
-  width: 2%;
+  width: 45%;
   animation-name: mongodbani;
   animation-duration: 5s;
 }
@@ -230,7 +230,7 @@ header .btn {
   animation-duration: 5s;
 }
 #react.is-visible {
-  width: 15%;
+  width: 25%;
   animation-name: reactani;
   animation-duration: 5s;
 }
@@ -359,7 +359,7 @@ header .btn {
 }
 #react-logo.is-visible {
   width: 10vh;
-  padding: 25%;
+  padding: 8%;
 }
 #photoshop-logo.is-visible {
   width: 10vh;
