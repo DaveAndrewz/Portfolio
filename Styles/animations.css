@@ -1,0 +1,152 @@
+/* ! SKILLS BAR ANIMATIONS ! */
+@keyframes htmlani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 80%;
+  }
+}
+@keyframes css3ani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 42%;
+  }
+}
+@keyframes javascriptani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 40%;
+  }
+}
+@keyframes sassani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 40%;
+  }
+}
+@keyframes jqueryani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 2%;
+  }
+}
+@keyframes mongodbani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 45%;
+  }
+}
+@keyframes githubani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 50%;
+  }
+}
+@keyframes reactani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 25%;
+  }
+}
+@keyframes photoshopani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 85%;
+  }
+}
+@keyframes premiereani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 70%;
+  }
+}
+@keyframes abletonani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 95%;
+  }
+}
+@keyframes pythonani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 2%;
+  }
+}
+@keyframes nodejsani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 10%;
+  }
+}
+@keyframes chromedevani {
+  0% {
+    width: 0%;
+  }
+  100% {
+    width: 55%;
+  }
+}
+/* ! END OF SKILLS BAR ANIMATIONS ! */
+
+/* ! SHAKE ANIMATIONS ! */
+@keyframes shake {
+  0% {
+    transform: translate(2px, 1px) rotate(0deg);
+  }
+  10% {
+    transform: translate(-1px, -2px) rotate(-1deg);
+  }
+  20% {
+    transform: translate(-3px, 0px) rotate(1deg);
+  }
+  30% {
+    transform: translate(0px, 2px) rotate(0deg);
+  }
+  40% {
+    transform: translate(1px, -1px) rotate(1deg);
+  }
+  50% {
+    transform: translate(-1px, 2px) rotate(-1deg);
+  }
+  60% {
+    transform: translate(-3px, 1px) rotate(0deg);
+  }
+  70% {
+    transform: translate(2px, 1px) rotate(-1deg);
+  }
+  80% {
+    transform: translate(-1px, -1px) rotate(1deg);
+  }
+  90% {
+    transform: translate(2px, 2px) rotate(0deg);
+  }
+  100% {
+    transform: translate(2px, -1px) rotate(0deg);
+  }
+}
+/* ! END OF SHAKE ANIMATIONS */

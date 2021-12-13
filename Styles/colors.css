@@ -1,0 +1,14 @@
+:root {
+  --light-color: #f3f2c6;
+  --background-dark: #30302c;
+  --accent-color: #94947e;
+
+  --proj1-color1: rgb(14, 90, 12);
+  --proj1-color2: rgb(0, 255, 0);
+
+  --proj2-color1: rgb(71, 71, 71);
+  --proj2-color2: rgb(198, 198, 198);
+
+  --proj3-color1: rgb(105, 98, 21);
+  --proj3-color2: rgb(255, 244, 33);
+}

@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Sansita:wght@400;700;900&display=swap");
+
+body {
+  background-color: rgb(20, 20, 20);
+  font-family: "Sansita", sans-serif;
+  font-weight: normal;
+  letter-spacing: 1px;
+  color: snow;
+}
+
+
+
+
+
+
+.rangenorm {
+  width: 25vw;
+}
+.rangesat {
+  width: 25vw
+}
